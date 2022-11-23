@@ -1,0 +1,19 @@
+public class Main {
+    public static void main(String[] args) {
+
+      int numeroif=-15;
+
+      if (numeroif < 0) {
+
+          System.out.println("La variable es negativa y su valor es = "+ numeroif);
+      } else if (numeroif == 0) {
+
+          System.out.println("El valor de la variable es = 0");
+      } else {
+
+          System.out.println("La variable es positiva y su valor es = "+ numeroif);
+
+      }
+
+    }
+    }
